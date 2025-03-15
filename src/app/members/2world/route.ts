@@ -8,17 +8,21 @@ interface Env {
 // 默认数据，仅在环境变量不可用时使用
 const DEFAULT_USERS_DATA = `
 uidvfdekseaskgea#me
-ss://YWVzLTI1Ni1nY206QmpsZlVRb0d6WEp5cnRXS3VYWmg4ZllUWkxsSG9NY0I2R1VTNlNOMFZObz0@tunnel-08301515.666888.biz:25595#Osaka
-vless://c2a2fb61-19d4-43e3-a232-4fa14bb7e4a4@144.34.227.17:23896?headerType=none&type=raw&encryption=none&fp=chrome&fp=chrome&pbk=4XOdbVo6bz252ooxwE-g4jrsqpAvWO33zqihemLCp0M&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision&security=reality&alpn=default&sni=cdn-dynmedia-1.microsoft.com#LS-US
+ss://YWVzLTI1Ni1nY206Z01iTHl6eUc0TlhCSkZTSkAxNDQuMzQuMTgxLjIwOjMxOTE4#JMS-142053@c36s1.portablesubmarines.com:31918
+ss://YWVzLTI1Ni1nY206Z01iTHl6eUc0TlhCSkZTSkA5Ni40NS4xOTAuNTY6MzE5MTg#JMS-142053@c36s2.portablesubmarines.com:31918
+vmess://eyJwcyI6IkpNUy0xNDIwNTNAYzM2czMucG9ydGFibGVzdWJtYXJpbmVzLmNvbTozMTkxOCIsInBvcnQiOiIzMTkxOCIsImlkIjoiNDk5ZDczMjktYmI0NS00NDk4LTlhMmMtZTBhNGMzZTMwNTA1IiwiYWlkIjowLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6Im5vbmUiLCJhZGQiOiIxOTguMTgxLjM1LjgwIn0
+vmess://eyJwcyI6IkpNUy0xNDIwNTNAYzM2czQucG9ydGFibGVzdWJtYXJpbmVzLmNvbTozMTkxOCIsInBvcnQiOiIzMTkxOCIsImlkIjoiNDk5ZDczMjktYmI0NS00NDk4LTlhMmMtZTBhNGMzZTMwNTA1IiwiYWlkIjowLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6Im5vbmUiLCJhZGQiOiIxNzguMTU3LjYzLjIxOSJ9
+vmess://eyJwcyI6IkpNUy0xNDIwNTNAYzM2czUucG9ydGFibGVzdWJtYXJpbmVzLmNvbTozMTkxOCIsInBvcnQiOiIzMTkxOCIsImlkIjoiNDk5ZDczMjktYmI0NS00NDk4LTlhMmMtZTBhNGMzZTMwNTA1IiwiYWlkIjowLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsInRscyI6Im5vbmUiLCJhZGQiOiIxMDQuMTkzLjkuMTIzIn0
+vmess://eyJwcyI6IkpNUy0xNDIwNTNAYzM2czgwMS5wb3J0YWJsZXN1Ym1hcmluZXMuY29tOjMxOTE4IiwicG9ydCI6IjMxOTE4IiwiaWQiOiI0OTlkNzMyOS1iYjQ1LTQ0OTgtOWEyYy1lMGE0YzNlMzA1MDUiLCJhaWQiOjAsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwidGxzIjoibm9uZSIsImFkZCI6IjIzLjgzLjIyNi4xNzIifQ
 uidfpengsffegwwe#enpeng
-vless://c2a2fb61-19d4-43e3-a232-4fa14bb7e4a4@144.34.227.17:23896?headerType=none&type=raw&encryption=none&fp=chrome&fp=chrome&pbk=4XOdbVo6bz252ooxwE-g4jrsqpAvWO33zqihemLCp0M&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision&security=reality&alpn=default&sni=cdn-dynmedia-1.microsoft.com#LS-US
+vless://c2a2fb61-19d4-43e3-a232-4fa14bb7e4a4@144.34.227.17:23896?headerType=none&type=raw&encryption=none&fp=chrome&fp=chrome&pbk=4XOdbVo6bz252ooxwE-g4jrsqpAvWO33zqihemLCp0M&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision&security=reality&alpn=default&sni=cdn-dynmedia-1.microsoft.com
 ss://YWVzLTI1Ni1nY206QmpsZlVRb0d6WEp5cnRXS3VYWmg4ZllUWkxsSG9NY0I2R1VTNlNOMFZObz0@tunnel-08301515.666888.biz:25595#JP-tunnel
 uid23sf234sdf33ddf3#baide
-vless://c2a2fb61-19d4-43e3-a232-4fa14bb7e4a4@144.34.227.17:23896?headerType=none&type=raw&encryption=none&fp=chrome&fp=chrome&pbk=4XOdbVo6bz252ooxwE-g4jrsqpAvWO33zqihemLCp0M&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision&security=reality&alpn=default&sni=cdn-dynmedia-1.microsoft.com#LS-US
+vless://c2a2fb61-19d4-43e3-a232-4fa14bb7e4a4@144.34.227.17:23896?headerType=none&type=raw&encryption=none&fp=chrome&fp=chrome&pbk=4XOdbVo6bz252ooxwE-g4jrsqpAvWO33zqihemLCp0M&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision&security=reality&alpn=default&sni=cdn-dynmedia-1.microsoft.com
 uidsfs33ff3j4j4jjsa#tt
-vless://c2a2fb61-19d4-43e3-a232-4fa14bb7e4a4@144.34.227.17:23896?headerType=none&type=raw&encryption=none&fp=chrome&fp=chrome&pbk=4XOdbVo6bz252ooxwE-g4jrsqpAvWO33zqihemLCp0M&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision&security=reality&alpn=default&sni=cdn-dynmedia-1.microsoft.com#LS-US
+vless://c2a2fb61-19d4-43e3-a232-4fa14bb7e4a4@144.34.227.17:23896?headerType=none&type=raw&encryption=none&fp=chrome&fp=chrome&pbk=4XOdbVo6bz252ooxwE-g4jrsqpAvWO33zqihemLCp0M&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision&security=reality&alpn=default&sni=cdn-dynmedia-1.microsoft.com
 uid2fd33djfjj3j3jf#jw
-vless://c2a2fb61-19d4-43e3-a232-4fa14bb7e4a4@144.34.227.17:23896?headerType=none&type=raw&encryption=none&fp=chrome&fp=chrome&pbk=4XOdbVo6bz252ooxwE-g4jrsqpAvWO33zqihemLCp0M&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision&security=reality&alpn=default&sni=cdn-dynmedia-1.microsoft.com#LS-US
+vless://c2a2fb61-19d4-43e3-a232-4fa14bb7e4a4@144.34.227.17:23896?headerType=none&type=raw&encryption=none&fp=chrome&fp=chrome&pbk=4XOdbVo6bz252ooxwE-g4jrsqpAvWO33zqihemLCp0M&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision&security=reality&alpn=default&sni=cdn-dynmedia-1.microsoft.com
 
 `;
 
@@ -78,14 +82,16 @@ export async function GET(request: NextRequest) {
       }
     }
 
+        // Join the encoded addresses with newlines for raw text output
+    const responseRawText = subscriptionAddresses.join('\n');
+
     // Base64 encode the subscription addresses
-    const encodedAddresses = subscriptionAddresses.map(address => {
-      return Buffer.from(address).toString('base64');
-    });
+    const encodedAddresses = Buffer.from(responseRawText).toString('base64');
+  
 
     // Join the encoded addresses with newlines for raw text output
     const responseText = encodedAddresses.length > 0 
-      ? encodedAddresses.join('\n') 
+      ? encodedAddresses
       : 'No subscription addresses found for your user ID.';
 
     // Return the response as plain text

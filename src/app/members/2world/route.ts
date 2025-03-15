@@ -26,6 +26,7 @@ vless://566539ec-07f7-4113-b8c3-8448a8548ecb@144.34.227.17:11148?type=tcp&securi
 
 const allowedUserAgents = [
   "Shadowrocket",
+  "V2rayU",
   "curl",
 ];
 

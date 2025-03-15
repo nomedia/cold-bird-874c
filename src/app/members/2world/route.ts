@@ -7,9 +7,19 @@ interface Env {
 
 // 默认数据，仅在环境变量不可用时使用
 const DEFAULT_USERS_DATA = `
-uidvfde # This is user 1 with USA and Japan servers
-ss://YWVzLTI1Ni1nY206aDkwMVVMRHk4R2V2MHd0Tm9zYnMwdGFLeGtFckx6cCs1K2IyTzh1S0lJYz0@tunnel-08301515.666888.biz:26484#美国洛杉矶
-ss://YWVzLTI1Ni1nY206QmpsZlVRb0d6WEp5cnRXS3VYWmg4ZllUWkxsSG9NY0I2R1VTNlNOMFZObz0@tunnel-08301515.666888.biz:25595#日本大阪
+uidvfdekseaskgea#me
+vless://c2a2fb61-19d4-43e3-a232-4fa14bb7e4a4@144.34.227.17:23896?headerType=none&type=raw&encryption=none&fp=chrome&fp=chrome&pbk=4XOdbVo6bz252ooxwE-g4jrsqpAvWO33zqihemLCp0M&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision&security=reality&alpn=default&sni=cdn-dynmedia-1.microsoft.com#LS-US
+ss://YWVzLTI1Ni1nY206QmpsZlVRb0d6WEp5cnRXS3VYWmg4ZllUWkxsSG9NY0I2R1VTNlNOMFZObz0@tunnel-08301515.666888.biz:25595#日本大阪中转
+uidfpengsffegwwe#enpeng
+vless://c2a2fb61-19d4-43e3-a232-4fa14bb7e4a4@144.34.227.17:23896?headerType=none&type=raw&encryption=none&fp=chrome&fp=chrome&pbk=4XOdbVo6bz252ooxwE-g4jrsqpAvWO33zqihemLCp0M&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision&security=reality&alpn=default&sni=cdn-dynmedia-1.microsoft.com#LS-US
+ss://YWVzLTI1Ni1nY206QmpsZlVRb0d6WEp5cnRXS3VYWmg4ZllUWkxsSG9NY0I2R1VTNlNOMFZObz0@tunnel-08301515.666888.biz:25595#JP-tunnel
+uid23sf234sdf33ddf3#baide
+vless://c2a2fb61-19d4-43e3-a232-4fa14bb7e4a4@144.34.227.17:23896?headerType=none&type=raw&encryption=none&fp=chrome&fp=chrome&pbk=4XOdbVo6bz252ooxwE-g4jrsqpAvWO33zqihemLCp0M&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision&security=reality&alpn=default&sni=cdn-dynmedia-1.microsoft.com#LS-US
+uidsfs33ff3j4j4jjsa#tt
+vless://c2a2fb61-19d4-43e3-a232-4fa14bb7e4a4@144.34.227.17:23896?headerType=none&type=raw&encryption=none&fp=chrome&fp=chrome&pbk=4XOdbVo6bz252ooxwE-g4jrsqpAvWO33zqihemLCp0M&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision&security=reality&alpn=default&sni=cdn-dynmedia-1.microsoft.com#LS-US
+uid2fd33djfjj3j3jf#jw
+vless://c2a2fb61-19d4-43e3-a232-4fa14bb7e4a4@144.34.227.17:23896?headerType=none&type=raw&encryption=none&fp=chrome&fp=chrome&pbk=4XOdbVo6bz252ooxwE-g4jrsqpAvWO33zqihemLCp0M&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision&security=reality&alpn=default&sni=cdn-dynmedia-1.microsoft.com#LS-US
+
 `;
 
 // 移除 Edge Runtime 配置

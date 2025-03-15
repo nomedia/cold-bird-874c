@@ -12,9 +12,8 @@ ss://YWVzLTI1Ni1nY206aDkwMVVMRHk4R2V2MHd0Tm9zYnMwdGFLeGtFckx6cCs1K2IyTzh1S0lJYz0
 ss://YWVzLTI1Ni1nY206QmpsZlVRb0d6WEp5cnRXS3VYWmg4ZllUWkxsSG9NY0I2R1VTNlNOMFZObz0@tunnel-08301515.666888.biz:25595#日本大阪
 `;
 
-export const config = {
-  runtime: 'edge',
-};
+// 使用新的配置方式
+export const runtime = "edge";
 
 export async function GET(request: NextRequest) {
   // 获取环境变量

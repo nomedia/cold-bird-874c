@@ -1,14 +1,28 @@
 import { NextRequest, NextResponse } from 'next/server';
 
-// 将users.txt的内容直接嵌入到代码中
-// 格式: 用户ID(可以有注释) + 订阅地址(每行一个)
-const USERS_DATA = `
+// 定义环境变量接口
+interface Env {
+  USERS_DATA: string;
+}
+
+// 默认数据，仅在环境变量不可用时使用
+const DEFAULT_USERS_DATA = `
 uidvfde # This is user 1 with USA and Japan servers
 ss://YWVzLTI1Ni1nY206aDkwMVVMRHk4R2V2MHd0Tm9zYnMwdGFLeGtFckx6cCs1K2IyTzh1S0lJYz0@tunnel-08301515.666888.biz:26484#美国洛杉矶
 ss://YWVzLTI1Ni1nY206QmpsZlVRb0d6WEp5cnRXS3VYWmg4ZllUWkxsSG9NY0I2R1VTNlNOMFZObz0@tunnel-08301515.666888.biz:25595#日本大阪
 `;
 
+export const config = {
+  runtime: 'edge',
+};
+
 export async function GET(request: NextRequest) {
+  // 获取环境变量
+  const env = process.env as unknown as Env;
+  
+  // 从环境变量获取用户数据，如果不存在则使用默认数据
+  const usersData = env.USERS_DATA || DEFAULT_USERS_DATA;
+  
   // Get the refer parameter from the URL
   const { searchParams } = new URL(request.url);
   const refer = searchParams.get('refer');
@@ -24,8 +38,8 @@ export async function GET(request: NextRequest) {
   }
 
   try {
-    // Parse the embedded user data to find the user's subscription addresses
-    const lines = USERS_DATA.split('\n');
+    // Parse the user data to find the user's subscription addresses
+    const lines = usersData.split('\n');
     const subscriptionAddresses: string[] = [];
     
     let currentUser = '';

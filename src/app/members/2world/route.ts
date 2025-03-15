@@ -8,17 +8,16 @@ interface Env {
 // 默认数据，仅在环境变量不可用时使用
 const DEFAULT_USERS_DATA = `
 uidvfdekseaskgea#me
-vless://c2a2fb61-19d4-43e3-a232-4fa14bb7e4a4@144.34.227.17:23896?headerType=none&type=raw&encryption=none&fp=chrome&fp=chrome&pbk=4XOdbVo6bz252ooxwE-g4jrsqpAvWO33zqihemLCp0M&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision&security=reality&alpn=default&sni=cdn-dynmedia-1.microsoft.com#LS-US
+vless://b420db6e-7338-49f6-bcb1-c9bf58572d57@144.34.227.17:11148?type=tcp&security=reality&pbk=jtsEpKCgK94SD1v1OPFMR_A9FQg4p5wWK4J0CftmpVQ&fp=chrome&sni=yahoo.com&sid=21fa7274&spx=%2F#Los Angeles
 ss://YWVzLTI1Ni1nY206QmpsZlVRb0d6WEp5cnRXS3VYWmg4ZllUWkxsSG9NY0I2R1VTNlNOMFZObz0@tunnel-08301515.666888.biz:25595#JP-tunnel
 uidfpengsffegwwe#enpeng
-vless://c2a2fb61-19d4-43e3-a232-4fa14bb7e4a4@144.34.227.17:23896?headerType=none&type=raw&encryption=none&fp=chrome&fp=chrome&pbk=4XOdbVo6bz252ooxwE-g4jrsqpAvWO33zqihemLCp0M&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision&security=reality&alpn=default&sni=cdn-dynmedia-1.microsoft.com#LS-US
-ss://YWVzLTI1Ni1nY206QmpsZlVRb0d6WEp5cnRXS3VYWmg4ZllUWkxsSG9NY0I2R1VTNlNOMFZObz0@tunnel-08301515.666888.biz:25595#JP-tunnel
+vless://812890d9-00ae-4d76-82ac-d86dff7e9bf5@144.34.227.17:11148?type=tcp&security=reality&pbk=jtsEpKCgK94SD1v1OPFMR_A9FQg4p5wWK4J0CftmpVQ&fp=chrome&sni=yahoo.com&sid=21fa7274&spx=%2F#Los Angeles
 uid23sf234sdf33ddf3#baide
-vless://c2a2fb61-19d4-43e3-a232-4fa14bb7e4a4@144.34.227.17:23896?headerType=none&type=raw&encryption=none&fp=chrome&fp=chrome&pbk=4XOdbVo6bz252ooxwE-g4jrsqpAvWO33zqihemLCp0M&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision&security=reality&alpn=default&sni=cdn-dynmedia-1.microsoft.com#LS-US
+vless://66ca1513-e405-4ca1-9b2a-725032010aae@144.34.227.17:11148?type=tcp&security=reality&pbk=jtsEpKCgK94SD1v1OPFMR_A9FQg4p5wWK4J0CftmpVQ&fp=chrome&sni=yahoo.com&sid=21fa7274&spx=%2F#Los Angeles
 uidsfs33ff3j4j4jjsa#tt
-vless://c2a2fb61-19d4-43e3-a232-4fa14bb7e4a4@144.34.227.17:23896?headerType=none&type=raw&encryption=none&fp=chrome&fp=chrome&pbk=4XOdbVo6bz252ooxwE-g4jrsqpAvWO33zqihemLCp0M&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision&security=reality&alpn=default&sni=cdn-dynmedia-1.microsoft.com#LS-US
+vless://20ad3035-8d41-4055-9e08-1fc9ff9c9bac@144.34.227.17:11148?type=tcp&security=reality&pbk=jtsEpKCgK94SD1v1OPFMR_A9FQg4p5wWK4J0CftmpVQ&fp=chrome&sni=yahoo.com&sid=21fa7274&spx=%2F#Los Angeles
 uid2fd33djfjj3j3jf#jw
-vless://c2a2fb61-19d4-43e3-a232-4fa14bb7e4a4@144.34.227.17:23896?headerType=none&type=raw&encryption=none&fp=chrome&fp=chrome&pbk=4XOdbVo6bz252ooxwE-g4jrsqpAvWO33zqihemLCp0M&sid=6ba85179e30d4fc2&flow=xtls-rprx-vision&security=reality&alpn=default&sni=cdn-dynmedia-1.microsoft.com#LS-US
+vless://566539ec-07f7-4113-b8c3-8448a8548ecb@144.34.227.17:11148?type=tcp&security=reality&pbk=jtsEpKCgK94SD1v1OPFMR_A9FQg4p5wWK4J0CftmpVQ&fp=chrome&sni=yahoo.com&sid=21fa7274&spx=%2F#Los Angeles
 
 `;
 

@@ -50,6 +50,7 @@ const allowedUserAgents = [
   "Shadowrocket",
   "V2rayU",
   "curl",
+  "v2rayNG"
 ];
 
 export async function GET(request: NextRequest) {

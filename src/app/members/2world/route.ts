@@ -42,6 +42,8 @@ vless://a5852b11-c238-4152-9d1e-f8b8723677d1@212.50.247.55:58592?type=tcp&securi
 uidv8o8346yhj#huangjian
 vless://d65a4ebf-bfd9-4897-a810-5e2074d22c88@144.34.227.17:11148?type=tcp&security=reality&pbk=jtsEpKCgK94SD1v1OPFMR_A9FQg4p5wWK4J0CftmpVQ&fp=chrome&sni=yahoo.com&sid=21fa7274&spx=%2F#Los Angeles
 vless://a76bf922-ffd5-455f-894b-566cd9c16569@212.50.247.55:58592?type=tcp&security=reality&pbk=k7AaemMDuK6mL3q71ZG668cxalNLjJg-3HWaeiJQvSg&fp=chrome&sni=lovelive-anime.jp&sid=7a74010d3a47&spx=%2F#Osaka
+uid1f070ymfxlcs#xianglecunshui
+vless://7a1a1f30-f247-4826-ba26-6f9cd0a056d3@144.34.227.17:11148?type=tcp&security=reality&pbk=jtsEpKCgK94SD1v1OPFMR_A9FQg4p5wWK4J0CftmpVQ&fp=chrome&sni=yahoo.com&sid=21fa7274&spx=%2F#Los Angeles
 `;
 
 // 移除 Edge Runtime 配置

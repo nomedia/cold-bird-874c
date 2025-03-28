@@ -54,7 +54,8 @@ const allowedUserAgents = [
   "V2rayU",
   "curl",
   "v2rayNG",
-  "v2rayN"
+  "v2rayN",
+  'clash'
 ];
 
 export async function GET(request: NextRequest) {

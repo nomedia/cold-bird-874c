@@ -58,7 +58,8 @@ const allowedUserAgents = [
   "curl",
   "v2rayNG",
   "v2rayN",
-  'clash'
+  'clash',
+  'potatso'
 ];
 
 export async function GET(request: NextRequest) {

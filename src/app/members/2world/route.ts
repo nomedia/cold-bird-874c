@@ -62,7 +62,9 @@ const allowedUserAgents = [
   'potatso',
   'V2RayX',
   'potatso2',
-  'potat'
+  'potat',
+  'Potatso',
+  'Potatso/88'
 ];
 
 export async function GET(request: NextRequest) {

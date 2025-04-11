@@ -59,7 +59,10 @@ const allowedUserAgents = [
   "v2rayNG",
   "v2rayN",
   'clash',
-  'potatso'
+  'potatso',
+  'V2RayX',
+  'potatso2',
+  'potat'
 ];
 
 export async function GET(request: NextRequest) {
@@ -75,6 +78,8 @@ export async function GET(request: NextRequest) {
 
 
   const userAgent = request.headers.get("user-agent") || "";
+  // Log the user agent for debugging purposes
+  console.log(`User-Agent: ${userAgent}`);
 
   // 检查 User-Agent 是否允许访问
   if (!allowedUserAgents.some((ua) => userAgent.includes(ua))) {

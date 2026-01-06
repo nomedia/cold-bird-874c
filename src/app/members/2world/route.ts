@@ -18,10 +18,10 @@ vless://66ca1513-e405-4ca1-9b2a-725032010aae@144.34.227.17:11148?type=tcp&securi
 vless://462d68d7-fe79-4cda-9486-f565e4cca859@212.50.247.55:58592?type=tcp&security=reality&pbk=k7AaemMDuK6mL3q71ZG668cxalNLjJg-3HWaeiJQvSg&fp=chrome&sni=lovelive-anime.jp&sid=7a74010d3a47&spx=%2F#Osaka
 uidsfs33ff3j4j4jjsa#tt
 vless://20ad3035-8d41-4055-9e08-1fc9ff9c9bac@144.34.227.17:11148?type=tcp&security=reality&pbk=jtsEpKCgK94SD1v1OPFMR_A9FQg4p5wWK4J0CftmpVQ&fp=chrome&sni=yahoo.com&sid=21fa7274&spx=%2F#Los Angeles
-vless://c9db0867-a9bc-40b9-9684-eb1167abf5ff@212.50.247.55:58592?type=tcp&security=reality&pbk=k7AaemMDuK6mL3q71ZG668cxalNLjJg-3HWaeiJQvSg&fp=chrome&sni=lovelive-anime.jp&sid=7a74010d3a47&spx=%2F#Osaka
+vless://060f5f14-6d4a-4941-bae8-cc83fda17aff@97.64.16.202:21727?type=tcp&security=reality&pbk=SmSFKNvq7UymGvNe7zZV-k3xbKsqpt4Ky2sSntQV4F0&fp=chrome&sni=yahoo.com&sid=7dcbf2&spx=%2F#Los Angeles2
 uid2fd33djfjj3j3jf#jw
 vless://566539ec-07f7-4113-b8c3-8448a8548ecb@144.34.227.17:11148?type=tcp&security=reality&pbk=jtsEpKCgK94SD1v1OPFMR_A9FQg4p5wWK4J0CftmpVQ&fp=chrome&sni=yahoo.com&sid=21fa7274&spx=%2F#Los Angeles
-vless://c41297fd-90d3-4b83-9550-3c5fe4ff6fc9@212.50.247.55:58592?type=tcp&security=reality&pbk=k7AaemMDuK6mL3q71ZG668cxalNLjJg-3HWaeiJQvSg&fp=chrome&sni=lovelive-anime.jp&sid=7a74010d3a47&spx=%2F#Osaka
+vless://cbb7c3e1-0659-45a3-8569-c7e9752ea36f@97.64.16.202:21727?type=tcp&security=reality&pbk=SmSFKNvq7UymGvNe7zZV-k3xbKsqpt4Ky2sSntQV4F0&fp=chrome&sni=yahoo.com&sid=7dcbf2&spx=%2F#Los Angeles2
 uido37mimk6#mengge
 vless://a21dcebd-cd4e-4ed3-a77a-3f295269c104@144.34.227.17:11148?type=tcp&security=reality&pbk=jtsEpKCgK94SD1v1OPFMR_A9FQg4p5wWK4J0CftmpVQ&fp=chrome&sni=yahoo.com&sid=21fa7274&spx=%2F#Los Angeles
 uidtltpes0vtao#tao
@@ -42,9 +42,10 @@ vless://86c0ec76-327d-43be-83d1-2d462c6ce278@144.34.227.17:11148?type=tcp&securi
 vless://a5852b11-c238-4152-9d1e-f8b8723677d1@212.50.247.55:58592?type=tcp&security=reality&pbk=k7AaemMDuK6mL3q71ZG668cxalNLjJg-3HWaeiJQvSg&fp=chrome&sni=lovelive-anime.jp&sid=7a74010d3a47&spx=%2F#Osaka
 uidv8o8346yhj#huangjian
 vless://d65a4ebf-bfd9-4897-a810-5e2074d22c88@144.34.227.17:11148?type=tcp&security=reality&pbk=jtsEpKCgK94SD1v1OPFMR_A9FQg4p5wWK4J0CftmpVQ&fp=chrome&sni=yahoo.com&sid=21fa7274&spx=%2F#Los Angeles
-vless://a76bf922-ffd5-455f-894b-566cd9c16569@212.50.247.55:58592?type=tcp&security=reality&pbk=k7AaemMDuK6mL3q71ZG668cxalNLjJg-3HWaeiJQvSg&fp=chrome&sni=lovelive-anime.jp&sid=7a74010d3a47&spx=%2F#Osaka
+vless://16355d82-a60d-4b16-ae23-48df61572c84@97.64.16.202:21727?type=tcp&security=reality&pbk=SmSFKNvq7UymGvNe7zZV-k3xbKsqpt4Ky2sSntQV4F0&fp=chrome&sni=yahoo.com&sid=7dcbf2&spx=%2F#Los Angeles2
 uid1f070ymfxlcs#xianglecunshui
 vless://7a1a1f30-f247-4826-ba26-6f9cd0a056d3@144.34.227.17:11148?type=tcp&security=reality&pbk=jtsEpKCgK94SD1v1OPFMR_A9FQg4p5wWK4J0CftmpVQ&fp=chrome&sni=yahoo.com&sid=21fa7274&spx=%2F#Los Angeles
+vless://4a167cdb-8d70-4f86-85de-8faa0a0715b4@97.64.16.202:21727?type=tcp&security=reality&pbk=SmSFKNvq7UymGvNe7zZV-k3xbKsqpt4Ky2sSntQV4F0&fp=chrome&sni=yahoo.com&sid=7dcbf2&spx=%2F#Los Angeles2
 uidhvarokokemily#emily
 vless://e86a0ece-02e9-43ee-b6f9-fc0453982928@212.50.247.55:58592?type=tcp&security=reality&pbk=k7AaemMDuK6mL3q71ZG668cxalNLjJg-3HWaeiJQvSg&fp=chrome&sni=lovelive-anime.jp&sid=7a74010d3a47&spx=%2F#Osaka
 vless://db541320-d4f0-4fb9-bcaf-4c13ee45c614@144.34.227.17:11148?type=tcp&security=reality&pbk=jtsEpKCgK94SD1v1OPFMR_A9FQg4p5wWK4J0CftmpVQ&fp=chrome&sni=yahoo.com&sid=21fa7274&spx=%2F#Los Angeles

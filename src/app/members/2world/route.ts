@@ -31,6 +31,7 @@ uidtnhs3k8xchao#ruichao
 vless://b2e07ffa-6a48-4d92-896e-48c9742961c5@144.34.227.17:11148?type=tcp&security=reality&pbk=jtsEpKCgK94SD1v1OPFMR_A9FQg4p5wWK4J0CftmpVQ&fp=chrome&sni=yahoo.com&sid=21fa7274&spx=%2F#Los Angeles
 uidnjxzg6whleno#lenon
 vless://8a80c08a-19e6-4cc0-9a0f-90297175252e@144.34.227.17:11148?type=tcp&security=reality&pbk=jtsEpKCgK94SD1v1OPFMR_A9FQg4p5wWK4J0CftmpVQ&fp=chrome&sni=yahoo.com&sid=21fa7274&spx=%2F#Los Angeles
+vless://c2374bfb-1edd-41c8-9e43-4748cb89f07f@97.64.16.202:21727?type=tcp&security=reality&pbk=SmSFKNvq7UymGvNe7zZV-k3xbKsqpt4Ky2sSntQV4F0&fp=chrome&sni=yahoo.com&sid=7dcbf2&spx=%2F#Los Angeles2
 uidatgd2amxqunzhu#qunzhu
 vless://9a9bab37-8fee-4f8a-8830-679a5a735f7c@212.50.247.55:58592?type=tcp&security=reality&pbk=k7AaemMDuK6mL3q71ZG668cxalNLjJg-3HWaeiJQvSg&fp=chrome&sni=lovelive-anime.jp&sid=7a74010d3a47&spx=%2F#Osaka
 vless://2aa3e963-9c12-4eef-8a2e-624aa896bb30@144.34.227.17:11148?type=tcp&security=reality&pbk=jtsEpKCgK94SD1v1OPFMR_A9FQg4p5wWK4J0CftmpVQ&fp=chrome&sni=yahoo.com&sid=21fa7274&spx=%2F#Los Angeles
